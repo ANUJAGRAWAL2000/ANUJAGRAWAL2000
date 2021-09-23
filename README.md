@@ -18,9 +18,11 @@
 
 - **Languages**: `C++`,`C`, `Java`, `Python`
 
-- **Web Technologies**: `Html`,`Css`, `js`,`react`, `express`,`node`
+- **Web Technologies**: `Html`,`Css` , `express`,`node`
 
 - **Database Technologies**: `Firebase` , `MongoDB`
+
+- **Data Structure and Algorithm
 
 
 <details>
