@@ -22,7 +22,7 @@
 
 - **Database Technologies**: `Firebase` , `MongoDB`
 
-- **Data Structure and Algorithm
+- Data Structure and Algorithm
 
 
 <details>
