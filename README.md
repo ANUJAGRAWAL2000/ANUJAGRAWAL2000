@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Anuj</h1>
 <h3 align="center">Eat.. Sleep.. Code.. Repeat!!</h3>
 
+[<img height="30" src="https://img.shields.io/badge/GEEKSFORGEEKS-white.svg?&style=for-the-badge&logo=geeksforgeeks" />][GEEKSFORGEEKS]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/hackerrank-black.svg?&style=for-the-badge&logo=hackerrank&logoColor=green" />][Hackerrank]
-[<img height="30" src="https://img.shields.io/badge/GEEKSFORGEEKS-white.svg?&style=for-the-badge&logo=geeksforgeeks" />][GEEKSFORGEEKS]
+[<img height="30" src="https://img.shields.io/badge/LEETCODE-blue.svg?&style=for-the-badge&logo=leetcode" />][LeetCode]
 [<img height="30" src="https://img.shields.io/badge/CODEFORCES-black.svg?&style=for-the-badge&logo=codeforces" />][Codeforces]
 [<img height="30" src="https://img.shields.io/badge/CODECHEF-blue.svg?&style=for-the-badge&logo=codechef" />][Codechef]
-[<img height="30" src="https://img.shields.io/badge/LEETCODE-blue.svg?&style=for-the-badge&logo=leetcode" />][LeetCode]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANUJAGRAWAL2000&label=Profile%20views&color=0e75b6&style=flat" alt="ANUJAGRAWAL2000" /> </p>
 
