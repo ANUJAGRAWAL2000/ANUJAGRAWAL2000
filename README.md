@@ -6,10 +6,11 @@
 [<img height="30" src="https://img.shields.io/badge/GEEKSFORGEEKS-white.svg?&style=for-the-badge&logo=geeksforgeeks" />][GEEKSFORGEEKS]
 [<img height="30" src="https://img.shields.io/badge/CODEFORCES-black.svg?&style=for-the-badge&logo=codeforces" />][Codeforces]
 [<img height="30" src="https://img.shields.io/badge/CODECHEF-blue.svg?&style=for-the-badge&logo=codechef" />][Codechef]
+[<img height="30" src="https://img.shields.io/badge/LEETCODE-blue.svg?&style=for-the-badge&logo=leetcode" />][LeetCode]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANUJAGRAWAL2000&label=Profile%20views&color=0e75b6&style=flat" alt="ANUJAGRAWAL2000" /> </p>
 
-- 🔭 I’m currently working on Android Development
+- 🔭 I’m currently working on DSA and Android Development
 - 😄 Pronouns: He/Him
 - 📫 How to reach me **anujagr2001@gmail.com**
 - 💬 Ask me about **Competitive Programming, Firebase & Native Android Development**
@@ -18,9 +19,9 @@
 
 - **Languages**: `C++`,`C`, `Java`, `Python`
 
-- **Web Technologies**: `Html`,`Css` , `express`,`node`
+- **Web Technologies**: `HTML`,`CSS`,`Express`,`NodeJS`
 
-- **Database Technologies**: `Firebase` , `MongoDB`
+- **Database Technologies**: `Firebase`,`MongoDB`
 
 - Data Structure and Algorithm
 
@@ -39,6 +40,7 @@
 [Hackerrank]: https://www.hackerrank.com/mrAA_1234
 [Codeforces]: https://codeforces.com/profile/mr_AA
 [Codechef]: https://www.codechef.com/users/mraa_1234
+[LeetCode]: https://leetcode.com/mrAA/
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <!--
